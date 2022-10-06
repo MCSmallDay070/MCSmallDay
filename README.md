@@ -1,4 +1,4 @@
 - 👋 Hi, I’m MCSmallDay!
 - 👀 I’m interested in Make a website.
 - 🌱 I’m currently learning html,css,js and php.
-- 📫 How to reach me email:mcsmallday@163.com or mcsmallday@gmail.com
+- 📫 How to reach me email:mcsmallday@gmail.com
